@@ -1,5 +1,8 @@
 # 💫 About Me:
 Thank you for taking your valuable time!<br><br>My objective is to serve you better than ever with my maximum devotion.<br><br>I love helping my customers, and so proudly do my business in delight until your needs are meet by satisfaction.<br><br>During working as a software developer for 12+ years, I've gained a vast experience and skills in software engineering field. <br>So no worry about software development from A to Z.<br><br>In a word, I'm an expert problem solver. No matter what the bug you have, what the solution you are looking for.<br><br>Up to today, I've successfully developed/solved so many projects and problems / bugs with various technologies, tools and languages.<br><br>My expertise allows me to build robust, clean, stable and reusable components/modules in any programming language scopes but it doesn't allow me to write dirty codes.<br>Attentiveness, responsibility, technical thinking, poise, concentration, a high degree of self-organization, discipline, focus on achieving results.<br><br>I always keep in mind that I grow with my customers. Let us make things better.<br><br>Happy working!
+My contact infors: 
+Gmail: secstar1223@gmail.com
+Skype: live:.cid.d11b9ef009bbf4e1
 
 
 # 💻 Tech Stack:
